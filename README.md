@@ -1,6 +1,7 @@
-# SLS Offline Reverse Proxe
+# SLS Offline Reverse Proxy
 
-Run multiple serverless services combined on a port
+Run multiple serverless services combined on a port.
+Probably too hacky to be useful for anyone else.
 
 ```
 ./run_services [PATH] [NGINX_PORT] [START_PORT]
